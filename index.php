@@ -20,7 +20,7 @@
         content
       </div>
       <div class="">
-        footer
+        my footer
       </div>
     </div>
   </body>
