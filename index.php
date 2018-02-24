@@ -20,7 +20,7 @@
         content
       </div>
       <div class="">
-        this is footer
+        footer
       </div>
     </div>
   </body>
