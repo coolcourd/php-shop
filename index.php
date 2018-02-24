@@ -7,21 +7,17 @@
   </head>
   <body>
     <div class="main_wrapper">
-      <div class="">
-        header
+      <div class="header_wrapper">
+        <img class="header_img" id="logo" src="./images/sintel.png" alt="sintel">
+        <img class="header_img" id="banner" src="./images/sintel.png" alt="sintel">
+        </div>
+        <div class="menubar"></div>
+
+      <div class="content_wrapper">
+      <div id="sidebar"></div>
+      <div id="content_area"></div>
       </div>
-      <div class="">
-        menubar
-      </div>
-      <div class="">
-        sidebar
-      </div>
-      <div class="">
-        content
-      </div>
-      <div class="">
-        my footer
-      </div>
+      <div id="footer">my footer</div>
     </div>
   </body>
 </html>

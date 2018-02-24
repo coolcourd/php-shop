@@ -30,3 +30,62 @@ footer, header, hgroup, menu, nav, section {
 body {
   background: skyblue;
 }
+
+.main_wrapper{
+  width: 1000px;
+  height: auto;
+  margin: auto;
+}
+
+.header_wrapper{
+  width: 1000px;
+  height: 100px;
+  margin:auto;
+  background: #384729;
+}
+
+.header_img{
+  max-width: 50%;
+  height: 100px;
+  }
+#logo {
+  float: left;
+}
+#banner {
+  float: right;
+}
+
+.menubar {
+  width: 1000px;
+  height: 50px;
+  background: grey;
+  color: white;
+}
+
+.content_wrapper {
+  widows: 1000px;
+  height: 800px;
+  margin: auto;
+  background: pink;
+}
+
+#content_area {
+  width: 800px;
+  height: 800px;
+  float: right;
+  background: pink;
+}
+
+#sidebar {
+  width: 200px;
+  height: 800px;
+  background: black;
+  float: left;
+}
+
+#footer {
+  width: 1000px;
+  height: 100px;
+  background: grey;
+  clear: both;
+}
